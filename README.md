@@ -4,7 +4,7 @@ This GitHub is for the Puzzle App created by TeamRGB in Unity3D.
 
 --Structure--
 
-The the game APK section contains an APK which can be installed on any android phone or tablet.
+The APK section contains an APK which can be installed on any android phone or tablet.
 
 The Assets section contains the font, scenes, scripts, sprits, and UI elements.
 
