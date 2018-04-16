@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: bed3a4db5fcc8214e8388ce9169e9582
+timeCreated: 1523219537
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Maniac Grunged
+  fontNames:
+  - Maniac Grunged
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bde1e3203b173684f89360f5de9c8aca, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
